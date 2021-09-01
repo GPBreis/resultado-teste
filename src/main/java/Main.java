@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        RemoverK nova = new RemoverK();
+        Troco teste = new Troco();
+        teste.CalculaTroco(9);
 
     }
 }

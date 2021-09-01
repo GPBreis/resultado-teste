@@ -8,6 +8,6 @@ class OcorrenciaDaPalavraTest {
     @Test
     @DisplayName("Contador de ocorrências")
     void contaOcorrencia() {
-        assertEquals(4, OcorrenciaDaPalavra.ContaOcorrencia("teste teste teste teste", "es"));
+        assertEquals(4, OcorrenciaDaPalavra.ContaOcorrencia("teste teste de teste teste", "es"));
     }
 }

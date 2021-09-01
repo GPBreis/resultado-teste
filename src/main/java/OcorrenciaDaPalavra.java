@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class OcorrenciaDaPalavra {
     public static int ContaOcorrencia(String frase, String ocorrencia){
 
